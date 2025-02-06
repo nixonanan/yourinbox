@@ -65,7 +65,7 @@
     <script>
         function checkPassword() {
             var input = document.getElementById("passwordInput").value;
-            if (input === "182005") {
+            if (input === "200518") {
                 document.getElementById("loginScreen").style.display = "none";
                 document.getElementById("messageScreen").classList.remove("hidden");
             } else {
