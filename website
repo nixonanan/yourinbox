@@ -59,7 +59,7 @@
     <div class="container hidden" id="messageScreen">
         <h2>📨 New Message</h2>
         <p><strong>From: Nixon</strong></p>
-        <p>💗 February 14th, be ready at 10am 💗</p>
+        <p>💗 Will you be my valentine's? 💗</p>
     </div>
 
     <script>
